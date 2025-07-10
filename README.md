@@ -124,4 +124,33 @@ Brixton leads in ASPH, suggesting either higher pricing, more premium orders, or
 - If time data is available, analyze lunch vs. dinner ASPH to tailor menus and staffing.
 - Maybe we can use weather data to see if that has an impact
 
+## 12 Week Trend tracking the Cali Burger using quantiy sold instead of profit
+
+<img width="721" height="470" alt="image" src="https://github.com/user-attachments/assets/11e10892-7a50-4778-9c60-63436a055fe5" />
+
+#### 📊 Insights
+🔍 What the Data Shows
+Brixton consistently sells the highest number of Californian burgers, with a stable or slightly rising trend.
+Croydon Boxpark and Tottenham Court Road show moderate but steady sales.
+Soho and Westfield have more fluctuating or declining sales, with some weeks showing sharp drops.
+
+#### ✅ Actionable Recommendations
+Brixton:
+Consider introducing premium variations or meal bundles to capitalize on strong demand.
+Use it as a benchmark location for testing new burger-related promotions.
+Croydon & Tottenham:
+
+#### These are growth opportunities. 
+- Localised marketing
+- Staff incentives for upselling
+- Cross-promotions with drinks or sides
+
+
+#### Meausre store perfomance of Soho + Westfield// Investigate potential issues:
+- Is the burger consistently available?
+- Are staff promoting it?
+- Does the local demographic prefer other items?
+- Consider menu redesign or limited-time offers to reignite interest.
+
+
 
