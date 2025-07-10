@@ -44,6 +44,7 @@ Net Sales by Drink Category (12 Weeks)
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/cc330e91-9a5a-4155-9826-3ef8b31036ee" />
 
 They outperform categories like Shakes, Wines, and Spirits & Liqueurs in both revenue and volume.
+
 🧠 What This Means
 Cocktails are a strong contributor to drink sales, with a healthy volume and revenue. This suggests:
 
