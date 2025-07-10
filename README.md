@@ -13,7 +13,7 @@ Weekly Net Sales
 Covers (number of transactions)
 Daily Sales Breakdown
 
-Note: Some entries show zero or negative sales, likely due to venue closures, refunds, or data anomalies.
+Something I noticed: Some entries show zero or negative sales, likely due to venue closures, refunds, or data anomalies. While working, this is something I would omit, ask for clarification on in order to work with cleaner data. Communicating with the end goal for stakeholders is useful here.
 
 ## 🍔 Food Categories
 Category	Example Items
