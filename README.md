@@ -51,3 +51,38 @@ They are popular with customers.
 There may be room to expand the cocktail menu or promote premium options.
 Consider happy hour deals or signature cocktails to further boost sales.
 
+# Weekly sales trends
+<img width="1262" height="468" alt="image" src="https://github.com/user-attachments/assets/ce48de07-df8e-40c0-9344-7cfeac735acc" />
+
+To analyse weekday sales trends, I aggregated total net sales by day of the week across all business dates and locations. The resulting bar chart clearly illustrates that:
+
+- Fridays and Saturdays consistently generate the highest sales.
+- Midweek days like Tuesday and Wednesday show moderate performance.
+- Mondays and Sundays tend to have the lowest sales volumes.
+- This insight can inform staffing, promotions, and inventory planning to align with peak business days.
+
+## What action I suggest based on this finding.
+
+### Optimize Staffing Schedules
+Increase staff coverage on Fridays and Saturdays (both kitchen and front-of-house).
+Reduce staffing levels slightly on Mondays and Sundays, when footfall is low.
+Use midweek (Tues/Wed) as a training window for new hires or to schedule lighter shifts for senior staff.
+
+### Targeted Promotions
+Run value-driven promotions on low-traffic days, e.g.:
+“Midweek Madness” discounts on Wednesdays
+“Lazy Sunday Brunch” offers to drive Sunday interest
+“Monday Burger Night” deals to increase early-week visits
+Avoid heavy discounting on Fridays/Saturdays — demand is already strong.
+
+### Menu Engineering by Day
+Feature bestsellers and high-margin items on peak days (e.g., burgers, cocktails) to maximize profit.
+Introduce limited-time specials midweek to create urgency and variety.
+
+### Inventory & Prep Adjustments
+Increase stock of high-demand items for Friday/Saturday (e.g., burger patties, fries, lager).
+Reduce waste by scaling down prep on quieter days like Monday.
+Use slower days for batch prep or testing new recipes.
+
+
+
