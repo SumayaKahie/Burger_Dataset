@@ -1,4 +1,4 @@
-# Burger_Dataset
+# Burger Co Dataset
 
 ## 📊 Sales Dataset Overview
 This dataset includes detailed sales information across multiple UK locations, broken down by day, category, and item. It can be used for performance tracking, trend analysis, and forecasting.
