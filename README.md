@@ -88,10 +88,34 @@ Use slower days for batch prep or testing new recipes.
 ## Average Spend Per Head
 
 ### ASPH by Location
-
 <img width="384" height="232" alt="image" src="https://github.com/user-attachments/assets/edc553d9-fb74-40f7-b9c2-eb3413974a9f" /> 
 
 Following my table above, you can see that:
 Brixton leads in ASPH, suggesting either higher pricing, more premium orders, or better upselling. Soho has the lowest, which I believe could be due to higher footfall (no. of customers entering store) but lower spend per head.
+
+### Relationship between ASPH and Day of the Week
+<img width="1386" height="842" alt="image" src="https://github.com/user-attachments/assets/3f18c706-c305-4a4b-80b1-2aef37b5f859" />
+
+### ✅ Recommended Actions
+
+#### Upsell on High-ASPH Days
+- Wednesday to Friday are prime days for premium promotions.
+- Introduce limited-time high-margin items or combo deals on these days to further boost ASPH.
+
+#### Boost ASPH in Lower-Performing Locations
+- Soho and Westfield could benefit from:
+- Staff training on upselling techniques.
+- Menu engineering to highlight high-margin items.
+- Table prompts (e.g., “Try our signature cocktail?”).
+
+#### Weekend Strategy
+- ASPH dips on Saturdays and Sundays, likely due to families or casual diners.
+- Family bundles or brunch upgrades.
+- Add-on incentives like “£2 extra for a premium side.”
+- Track ASPH by Time of Day
+
+#### To help me build better inferences,
+- If time data is available, analyze lunch vs. dinner ASPH to tailor menus and staffing.
+- Maybe we can use weather data to see if that has an impact
 
 
