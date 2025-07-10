@@ -1,36 +1,38 @@
 # Burger_Dataset
 
+📊 Sales Dataset Overview
+This dataset includes detailed sales information across multiple UK locations, broken down by day, category, and item. It can be used for performance tracking, trend analysis, and forecasting.
+
 📍 Locations Covered
-Brixton
-Croydon Boxpark
-Soho
-Tottenham Court Road
-East Dulwich
-Westfield
-📊 Sales Data Highlights
-Weekly sales per location, including:
-Net Sales
+Brixton, Croydon, Boxpark, Soho, Tottenham Court Road, East Dulwich, Westfield
+
+📅 Sales Data Highlights
+Each location includes:
+
+Weekly Net Sales
 Covers (number of transactions)
-Daily breakdowns for each week
-Some entries show zero or negative sales, possibly due to closures or data errors
+Daily Sales Breakdown
+
+Note: Some entries show zero or negative sales, likely due to venue closures, refunds, or data anomalies.
+
 🍔 Food Categories
-Breakfast Brunch: e.g., Eggs Benedict, Full Bukowski
-Burgers: e.g., The Californian, Pulled Pork Burger
-Grill: e.g., Beef Rib, Pork Rib Rack
-Main Dishes: e.g., Double Beef Rib, Soft Shell Crab Burger
-Sides & Starters: e.g., Skinny Fries, BBQ Smoked Wings
-Desserts: e.g., Choco Pot, Waffle Ice Cream Jam
-Extras: e.g., Extra beef patty, Blue cheese sauce
-Cook Instructions: e.g., Medium, Well Done
-Specials: e.g., Monday Steak Night
+Category	Example Items
+Breakfast Brunch	Eggs Benedict, Full Bukowski
+Burgers	The Californian, Pulled Pork Burger
+Grill	Beef Rib, Pork Rib Rack
+Main Dishes	Double Beef Rib, Soft Shell Crab Burger
+Sides & Starters	Skinny Fries, BBQ Smoked Wings
+Desserts	Choco Pot, Waffle Ice Cream Jam
+Extras	Extra beef patty, Blue cheese sauce
+Cook Instructions	Medium, Well Done
+Specials	Monday Steak Night
+
 🍹 Drink Categories
-Beer: e.g., Meantime Lager, ASPALLS Cider
-Cocktails: e.g., Bloody Mary, Frozen Margarita
-Shakes: e.g., Peanut Butter Banana Milkshake
-Soft Drinks: e.g., Coke, Homemade Lemonade
-Spirits & Liqueurs: e.g., Ron Barcelo Shot
-Wines: e.g., Prosecco Bernardi, Rioja Rose
-📈 Trends & Insights
-Top-performing categories: Burgers, Breakfast Brunch, Sides, Soft Drinks
-Popular items: The Californian, Full Bukowski, Skinny Fries, Meantime Lager Pint
-Detailed item-level sales: Including quantity sold and net sales per item
+Category	Example Items
+Beer	Meantime Lager, ASPALLS Cider
+Cocktails	Bloody Mary, Frozen Margarita
+Shakes	Peanut Butter Banana Milkshake
+Soft Drinks	Coke, Homemade Lemonade
+Spirits & Liqueurs	Ron Barcelo Shot
+Wines	Prosecco Bernardi, Rioja Rose
+
