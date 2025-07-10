@@ -96,6 +96,11 @@ Brixton leads in ASPH, suggesting either higher pricing, more premium orders, or
 ### Relationship between ASPH and Day of the Week
 <img width="1386" height="842" alt="image" src="https://github.com/user-attachments/assets/3f18c706-c305-4a4b-80b1-2aef37b5f859" />
 
+### Key Findings for Stakeholders
+- Midweek (Wed–Fri) shows the highest ASPH, suggesting customers spend more per visit.
+- Brixton consistently leads in ASPH across the week.
+- Soho and Westfield show lower ASPH, especially on weekends.
+
 ### ✅ Recommended Actions
 
 #### Upsell on High-ASPH Days
