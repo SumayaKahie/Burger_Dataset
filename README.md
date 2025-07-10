@@ -153,4 +153,32 @@ Croydon & Tottenham:
 - Consider menu redesign or limited-time offers to reignite interest.
 
 
+## Bonus Top 10 Drink Pairings with 'The Californian' Burger (12 Weeks)
+
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/9b24988b-6096-4048-997b-f19e8a8d21b8" />
+
+##### Most Frequently Paired Drinks
+- Coke and Diet Coke are the top pairings — classic, familiar, and likely bundled.
+- Homemade Lemonade and Hibiscus Iced Tea also perform well, suggesting a preference for refreshing non-alcoholic options.
+- Meantime Lager Pint and Frozen Margarita appear in the top 10, indicating some customers enjoy pairing this burger with alcoholic beverages.
+  
+✅ Recommendations
+Offer combo deals with Coke, Diet Coke, or Homemade Lemonade.
+Consider a “Burger + Craft Beer” deal featuring Meantime Lager.
+
+Upsell Opportunities:
+Highlight premium drinks like Frozen Margarita or Meantime Lager on the menu when customers order The Californian.
+Menu Design:
+
+Use visual cues (e.g., “Perfect Pairing” icons) next to these drinks on the menu.
+
+Methodology
+
+### Filtered the data to find all rows where the item sold was "The Californian".
+From those rows, I extracted the Location and Week Ending — this tells us when and where the burger was sold.
+Then, I looked at all drink items (where Sales Mix Group 1 = Drink) that were sold in the same location and week.
+I grouped those drink items using vlookup/ match and summed their quantities to see which drinks were most commonly sold alongside The Californian.
+Finally, I plotted the top 10 drinks by total quantity sold.
+
+
 
