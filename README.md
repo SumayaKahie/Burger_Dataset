@@ -85,4 +85,10 @@ Reduce waste by scaling down prep on quieter days like Monday.
 Use slower days for batch prep or testing new recipes.
 
 
+## Average Spend Per Head
+
+### ASPH by Location
+
+<img width="384" height="232" alt="image" src="https://github.com/user-attachments/assets/edc553d9-fb74-40f7-b9c2-eb3413974a9f" />
+
 
